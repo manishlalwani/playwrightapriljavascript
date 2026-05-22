@@ -1,0 +1,13 @@
+{
+  "name": "playwrightapriljavascript",
+  "version": "1.0.0",
+  "description": "This is used to create javascript practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manish Lalwani",
+  "license": "ISC",
+  "type": "module"
+}
